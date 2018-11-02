@@ -142,7 +142,7 @@
 ## DE Germany
 - DB	Deutsche Bahn
 - NBE	Nordbahn Eisenbahngesellschaft
-- HKX	Hamburg-Köln-Express
+- FLX	FlixTrain
 - EB	Erfurter Bahn
 - SWE	SWEG
 - VIA	Vias Rail GmbH
@@ -188,7 +188,8 @@
 - NS	Nederlandse Spoorwegen
 - CXX	Connexxion, Valleilijn
 - 	Breng
-- 	Keolis (prev. Syntus)
+- 	Keolis
+- 	Qbuzz
 - ARR	Arriva
 ## CH Switzerland
 - SBB	Schweizerische Bundesbahnen, SBB CFF FFS, Thurbo
